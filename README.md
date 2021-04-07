@@ -1,2 +1,4 @@
 # OOP_Projekt1
 Kursuse OOP - LTAT.03.003 rühmatöö nr. 1
+
+Autorid: Andreas Joamets ja Meelis Rekker
